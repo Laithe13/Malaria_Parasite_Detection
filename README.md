@@ -7,4 +7,3 @@ Malaria epidemic cause many victims every year because identification and treatm
 Conclusion
 
 In this study, we present a machine learning model to detect the presence of Malaria parasite in red blood cell images. Convolutional neural network has been used to resolve this classification problem. Geometric data augmentation has improved the quantity and quality of data. The accuracy of this model is 0.988. In view of this excellent performance, this machine learning model could help to improve the speed and reliability of the diagnosis of patient suspected of being infected by malaria.
-
